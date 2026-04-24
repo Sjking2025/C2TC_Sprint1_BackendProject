@@ -1,0 +1,16 @@
+*.class
+/target
+/bin
+database_setup.sql
+
+# IDE specific files
+.settings/
+.classpath
+.project
+.factorypath
+
+# Log files
+*.log
+
+# macOS system files
+.DS_Store
